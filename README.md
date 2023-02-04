@@ -1,2 +1,2 @@
-# CS639
+# CS374
 Intro to Mobile App Development
