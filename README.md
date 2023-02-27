@@ -1,2 +1,13 @@
 # CS374
-Intro to Mobile App Development
+
+by Pride
+
+## Completed:
+
+- **FirstApp**
+- **HelloWorld**
+- **HelloToast**
+
+### Week 2 Git
+
+>**CS374/week2**
