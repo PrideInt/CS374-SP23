@@ -2,6 +2,6 @@
 
 ## Progress
 
-Currently, as of now, I have installed Android Studio SDK on my system, and created my first "application".
+Completed. I have installed Android Studio SDK on my system, and created my first "application" showing 2 TextViews.
 - Pride was here
 

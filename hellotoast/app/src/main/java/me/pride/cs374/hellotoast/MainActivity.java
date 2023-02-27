@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-	private TextView toastCountVert, toastCountLand;
+	private TextView toastCount;
 	private int count;
 
 	@Override
@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		this.toastCountVert = (TextView) findViewById(R.id.toast_count);
-		// this.toastCountLand = (TextView) findViewById(R.id.toast_count_land);
+		this.toastCount = (TextView) findViewById(R.id.toast_count);
 	}
 
 	public void showToast(View view) {
@@ -26,15 +25,10 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	public void toastUp(View view) {
-		count++;
-		/*
-		if (toastCountVert != null && toastCountLand != null) {
-			toastCountVert.setText("" + count);
-			toastCountLand.setText("" + count);
-		}
-		 */
-		if (toastCountVert != null) {
-			toastCountVert.setText("" + count);
+		this.count++;
+
+		if (this.toastCount != null) {
+			this.toastCount.setText("" + count);
 		}
 	}
 }

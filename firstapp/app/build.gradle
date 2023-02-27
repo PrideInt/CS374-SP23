@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'me.pride.cs374.firstapp'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "me.pride.cs374.firstapp"
         minSdk 26
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
