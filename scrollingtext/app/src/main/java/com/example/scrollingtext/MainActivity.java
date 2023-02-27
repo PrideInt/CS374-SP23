@@ -6,10 +6,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-	/*
-	Not started yet
-	 */
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

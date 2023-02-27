@@ -3,7 +3,7 @@
 ## APK File
 
 Path:
-- CS374/firstapp/apk/firstapp.apk
+- > CS374/firstapp/apk/firstapp.apk
 
 ## Function
 
@@ -20,16 +20,16 @@ StringBuilder as a String and adding " was here" to update the "was here" portio
 
 ### What it looks like initially
 
-![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp1.png)
+> ![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp1.png)
 
 ### First click
 
-![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp2.png)
+> ![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp2.png)
 
 ### More examples of the anagram
 
-![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp3.png)
+> ![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp3.png)
 
-![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp4.png)
+> ![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp4.png)
 
-![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp5.png)
+> ![firstapp1](https://raw.githubusercontent.com/PrideInt/CS374/master/firstapp/readme/firstapp5.png)

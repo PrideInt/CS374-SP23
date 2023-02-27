@@ -1,13 +1,20 @@
 # CS374
-
 by Pride
 
 ## Completed:
 
-- **FirstApp**
-- **HelloWorld**
-- **HelloToast**
+> ### FirstApp
+- https://github.com/PrideInt/CS374/tree/master/firstapp
 
-### Week 2 Git
+> ### HelloWorld
+- https://github.com/PrideInt/CS374/tree/master/helloworld
+
+> ### HelloToast
+- https://github.com/PrideInt/CS374/tree/master/hellotoast
+
+> ### ScrollingText
+- https://github.com/PrideInt/CS374/tree/master/scrollingtext
+
+## Week 2 Git:
 
 >**CS374/week2**
