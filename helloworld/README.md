@@ -3,7 +3,7 @@
 ## APK File:
 
 Path:
-- CS374/apk/helloworld.apk
+- CS374/helloworld/apk/helloworld.apk
 
 ## Function:
 
