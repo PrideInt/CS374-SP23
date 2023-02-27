@@ -1,5 +1,10 @@
 # FirstApp
 
+## APK File
+
+Path:
+- CS374/firstapp/apk/firstapp.apk
+
 ## Function
 
 ### Anagram
