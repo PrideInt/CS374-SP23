@@ -1,11 +1,11 @@
 # HelloWorld
 
-## APK File:
+## APK File
 
 Path:
 - > CS374/helloworld/apk/helloworld.apk
 
-## Function:
+## Function
 
 Shows "Hello World" in Log.
 

@@ -1,11 +1,11 @@
 # ScrollingText
 
-## APK File:
+## APK File
 
 Path:
 - >CS374/scrollingtext/apk/scrollingtext.apk
 
-## Scrolling view:
+## Scrolling view
 
 I made a scrolling view using the Wikipedia page of ***Babylon*** *(2022 film)*.
 Extracted values from **strings.xml**, **dimens.xml** and **colors.xml** so that values
