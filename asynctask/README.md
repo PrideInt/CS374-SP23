@@ -7,7 +7,7 @@ Path:
 
 ## Function
 
-### Anagram
+### AsyncTask
 
 This app sets the Thread asleep for 0-12 * 200 milliseconds (generates long from 0 to 12 using 
 ThreadLocalRandom) when the Button "**SLEEP**" is clicked. When it "awakens", the TextView
