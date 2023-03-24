@@ -3,4 +3,10 @@
     <string name="instructions">This app attempts to find out who wrote a book based on the input using Google\'s Books API.</string>
     <string name="button_text">SEARCH</string>
     <string name="input_hint">Enter a book name to find out who wrote the book...</string>
+
+    <string name="no_results">No results.</string>
+    <string name="loading">Loading...</string>
+
+    <string name="no_search_term">No search term. Please enter a search term.</string>
+    <string name="no_network">Cannot connect. Please check your network connection and try again.</string>
 </resources>

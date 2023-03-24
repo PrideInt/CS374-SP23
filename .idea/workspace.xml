@@ -4,105 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f87d16a-6c96-4178-8aee-44d60175903d" name="Changes" comment="scrollingtext &amp; readme updates">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3f87d16a-6c96-4178-8aee-44d60175903d" name="Changes" comment="asynctask readme update">
       <change afterPath="$PROJECT_DIR$/asynctask/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/apk/asynctask.apk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/androidTest/java/me/pride/cs374/asynctask/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/java/me/pride/cs374/asynctask/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/app/src/test/java/me/pride/cs374/asynctask/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/readme/asynctask1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/readme/asynctask2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/readme/asynctask3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/readme/asynctask4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynctask/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstapp/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrollingtext/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whowroteit/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/androidTest/java/me/pride/cs374/whowroteit/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/test/java/me/pride/cs374/whowroteit/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/BookLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whowroteit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677470313710</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="asynctask and whowroteit">
+      <created>1679602851532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679602851532</updated>
+    </task>
+    <task id="LOCAL-00011" summary="asynctask readme update">
+      <created>1679602915852</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679602915852</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +166,8 @@
     <MESSAGE value="apks and readmes" />
     <MESSAGE value="readme update" />
     <MESSAGE value="scrollingtext &amp; readme updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="scrollingtext &amp; readme updates" />
+    <MESSAGE value="asynctask and whowroteit" />
+    <MESSAGE value="asynctask readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="asynctask readme update" />
   </component>
 </project>
