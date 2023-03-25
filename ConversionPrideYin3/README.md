@@ -38,4 +38,4 @@ I designed this app without much complexity, though its elements having been ref
 in the app when I began to develop the app on Android Studio's layout. Though the constraints
 were tediously annoying, to respect both portrait and landscape mode.
 
-> ![process](https://raw.githubusercontent.com/PrideInt/CS374/master/ConversionPrideYin3/images/designprocess.png)
+> ![process](https://raw.githubusercontent.com/PrideInt/CS374/master/ConversionPrideYin3/images/designprocess.jpg)
