@@ -21,9 +21,11 @@ by Pride
 > ### WhoWroteIt
 - https://github.com/PrideInt/CS374/tree/master/whowroteit
 
-## Progressing:
+> ### FirebaseFriendlyChat
+- https://github.com/PrideInt/CS374/tree/master/firebase-friendlychat
 
-> ### Firebase
+> ### FirebaseLab
+- https://github.com/PrideInt/CS374/tree/master/firebase
 
 ## Week 2 Git:
 
