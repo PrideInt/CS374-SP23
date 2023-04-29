@@ -35,6 +35,16 @@
 - Path: CS374/firebase
 - Link: https://github.com/PrideInt/CS374/tree/master/firebase
 
+> ### BirthdayCard & BusinessCard (4/15)
+
+> **Birthday Card**
+- Path: CS374/birthdaycard
+- Link: https://github.com/PrideInt/CS374/tree/master/birthdaycard
+
+> **Business Card**
+- Path: CS374/businesscard
+- Link: https://github.com/PrideInt/CS374/tree/master/businesscard
+
 ## Progressing:
 
 > ### RecyclerView
