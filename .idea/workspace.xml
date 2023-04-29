@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26261756-91b1-435f-a3e4-f7b6fcb01d84" name="Changes" comment="">
+    <list default="true" id="26261756-91b1-435f-a3e4-f7b6fcb01d84" name="Changes" comment="jetpack compose basics (4/29) and birthday card">
       <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/app/.gitignore" afterDir="false" />
@@ -17,50 +17,14 @@
       <change afterPath="$PROJECT_DIR$/asynctask/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/app/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/birthdaycard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/birthdaycard/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/androidTest/java/me/pride/cs374/birthdaycard/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-nodpi/birthday_background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/test/java/me/pride/cs374/birthdaycard/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesscard/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesscard/app/src/main/res/drawable-nodpi/at_sign_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesscard/app/src/main/res/drawable-nodpi/email_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesscard/app/src/main/res/drawable-nodpi/mail_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesscard/app/src/main/res/drawable-nodpi/telephone_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firebase-friendlychat/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android-start/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android-start/app/.gitignore" afterDir="false" />
@@ -70,61 +34,13 @@
       <change afterPath="$PROJECT_DIR$/firebase/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firebase/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/firebase/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/apk/composebasics.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/androidTest/java/me/pride/cs374/composebasics/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable/jetpack_shark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/test/java/me/pride/cs374/composebasics/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/boarding_screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthdaycard/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/birthdaycard/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-nodpi/birthday_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-nodpi/birthday_background.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682773972284</updated>
     </task>
+    <task id="LOCAL-00001" summary="jetpack compose basics (4/29) and birthday card">
+      <created>1682788949665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682788949665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jetpack compose basics (4/29) and birthday card" />
+    <option name="LAST_COMMIT_MESSAGE" value="jetpack compose basics (4/29) and birthday card" />
   </component>
 </project>
