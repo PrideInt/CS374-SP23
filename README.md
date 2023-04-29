@@ -1,32 +1,52 @@
 # CS374
-by Pride
+> **by Pride**
 
 ## Completed:
 
 > ### FirstApp
-- https://github.com/PrideInt/CS374/tree/master/firstapp
+- Path: CS374/firstapp
+- Link: https://github.com/PrideInt/CS374/tree/master/firstapp
 
 > ### HelloWorld
-- https://github.com/PrideInt/CS374/tree/master/helloworld
+- Path: CS374/helloworld
+- Link: https://github.com/PrideInt/CS374/tree/master/helloworld
 
 > ### HelloToast
-- https://github.com/PrideInt/CS374/tree/master/hellotoast
+- Path: CS374/hellotoast
+- Link: https://github.com/PrideInt/CS374/tree/master/hellotoast
 
 > ### ScrollingText
-- https://github.com/PrideInt/CS374/tree/master/scrollingtext
+- Path: CS374/scrollingtext
+- Link: https://github.com/PrideInt/CS374/tree/master/scrollingtext
 
 > ### AsyncTask
-- https://github.com/PrideInt/CS374/tree/master/asynctask
+- Path: CS374/asynctask
+- Link: https://github.com/PrideInt/CS374/tree/master/asynctask
 
-> ### WhoWroteIt
-- https://github.com/PrideInt/CS374/tree/master/whowroteit
+> ### WhoWroteIt & WhoWroteItLoader
+- Path: CS374/whowroteit
+- Link: https://github.com/PrideInt/CS374/tree/master/whowroteit
 
 > ### FirebaseFriendlyChat
-- https://github.com/PrideInt/CS374/tree/master/firebase-friendlychat
+- Path: CS374/firebase-friendlychat
+- Link: https://github.com/PrideInt/CS374/tree/master/firebase-friendlychat
 
 > ### FirebaseLab
-- https://github.com/PrideInt/CS374/tree/master/firebase
+- Path: CS374/firebase
+- Link: https://github.com/PrideInt/CS374/tree/master/firebase
+
+## Progressing:
+
+> ### RecyclerView
+
+> ### BirthdayCard
+- Path: CS374/birthdaycard
+- Link: https://github.com/PrideInt/CS374/tree/master/birthdaycard
 
 ## Week 2 Git:
 
->**CS374/week2**
+> ### CS374/week2
+
+## 4/29 - Kotlin Jetpack Compose Basics
+
+> ### CS374/jetpackcomposebasics

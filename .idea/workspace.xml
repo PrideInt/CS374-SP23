@@ -1,31 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f87d16a-6c96-4178-8aee-44d60175903d" name="Changes" comment="asynctask readme update">
+    <list default="true" id="26261756-91b1-435f-a3e4-f7b6fcb01d84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConversionPrideYin3/app/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asynctask/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/androidTest/java/me/pride/cs374/birthdaycard/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/java/me/pride/cs374/birthdaycard/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-nodpi/birthday_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/app/src/test/java/me/pride/cs374/birthdaycard/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdaycard/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android-start/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/build-android/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase-friendlychat/steps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/apk/composebasics.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/androidTest/java/me/pride/cs374/composebasics/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/java/me/pride/cs374/composebasics/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/drawable/jetpack_shark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/app/src/test/java/me/pride/cs374/composebasics/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/boarding_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/screenshots/greetings_screen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetpackcomposebasics/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whowroteit/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/BookLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whowroteit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/java/me/pride/cs374/whowroteit/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/whowroteit/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Pride\.android\avd\Pixel_6_Pro_API_26.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -33,12 +139,25 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="289ceb09-893e-47bc-8bad-856987ad3514" />
+        <option name="url" value="https://github.com/PrideInt/CS374.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LbdlYHYdOCTr4qlyb9I9km8Z1r" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2P6OGxkGoZmXQDmcXMJz6pVVvcK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,100 +166,62 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pride/Desktop/coding-intellij/school/CS374&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="BirthdayCard.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f87d16a-6c96-4178-8aee-44d60175903d" name="Changes" comment="" />
-      <created>1676143868543</created>
+      <changelist id="26261756-91b1-435f-a3e4-f7b6fcb01d84" name="Changes" comment="" />
+      <created>1682773972284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676143868543</updated>
+      <updated>1682773972284</updated>
     </task>
-    <task id="LOCAL-00001" summary="create README.md in week2 dir">
-      <created>1676145898028</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676145898028</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add index.html and correct README.md">
-      <created>1676146350588</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1676146350588</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add index.html and correct README.md">
-      <created>1676146359971</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1676146359971</updated>
-    </task>
-    <task id="LOCAL-00004" summary="assignment 1 doc">
-      <created>1676146612423</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1676146612423</updated>
-    </task>
-    <task id="LOCAL-00005" summary="completed assignments">
-      <created>1677458810558</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1677458810558</updated>
-    </task>
-    <task id="LOCAL-00006" summary="updated firstapp &amp; hellotoast readme">
-      <created>1677464073012</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1677464073012</updated>
-    </task>
-    <task id="LOCAL-00007" summary="apks and readmes">
-      <created>1677465667845</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1677465667845</updated>
-    </task>
-    <task id="LOCAL-00008" summary="readme update">
-      <created>1677466333637</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1677466333637</updated>
-    </task>
-    <task id="LOCAL-00009" summary="scrollingtext &amp; readme updates">
-      <created>1677470313710</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1677470313710</updated>
-    </task>
-    <task id="LOCAL-00010" summary="asynctask and whowroteit">
-      <created>1679602851532</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1679602851532</updated>
-    </task>
-    <task id="LOCAL-00011" summary="asynctask readme update">
-      <created>1679602915852</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1679602915852</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,21 +234,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/scenarios/projectdemosupdeco" />
-    </ignored-roots>
-    <MESSAGE value="create README.md in week2 dir" />
-    <MESSAGE value="add index.html and correct README.md" />
-    <MESSAGE value="assignment 1 doc" />
-    <MESSAGE value="completed assignments" />
-    <MESSAGE value="updated firstapp &amp; hellotoast readme" />
-    <MESSAGE value="apks and readmes" />
-    <MESSAGE value="readme update" />
-    <MESSAGE value="scrollingtext &amp; readme updates" />
-    <MESSAGE value="asynctask and whowroteit" />
-    <MESSAGE value="asynctask readme update" />
-    <option name="LAST_COMMIT_MESSAGE" value="asynctask readme update" />
   </component>
 </project>
