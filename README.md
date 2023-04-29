@@ -49,10 +49,6 @@
 
 > ### RecyclerView
 
-> ### BirthdayCard
-- Path: CS374/birthdaycard
-- Link: https://github.com/PrideInt/CS374/tree/master/birthdaycard
-
 ## Week 2 Git:
 
 > ### CS374/week2
