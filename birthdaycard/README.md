@@ -6,7 +6,7 @@
 
 > CS374/birthdaycard/apk/birthdaycard.apk
 
-## Business card
+## Birthday card
 
 This program creates a birthday card visual layout from https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3 (2).
 
