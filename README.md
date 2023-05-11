@@ -31,6 +31,10 @@
 - Path: CS374/firebase-friendlychat
 - Link: https://github.com/PrideInt/CS374/tree/master/firebase-friendlychat
 
+> ### RecyclerView
+- Path: CS374/recyclerview
+- Link: https://github.com/PrideInt/CS374/tree/master/recyclerview
+
 > ### FirebaseLab
 - Path: CS374/firebase
 - Link: https://github.com/PrideInt/CS374/tree/master/firebase
@@ -44,10 +48,6 @@
 > **Business Card**
 - Path: CS374/businesscard
 - Link: https://github.com/PrideInt/CS374/tree/master/businesscard
-
-## Progressing:
-
-> ### RecyclerView
 
 ## Week 2 Git:
 
